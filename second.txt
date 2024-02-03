@@ -1,2 +1,5 @@
 /white theme
 /black theme
+/help
+/refund
+/privacy

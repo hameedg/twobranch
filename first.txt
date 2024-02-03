@@ -2,5 +2,4 @@ This is the genaiui initial version with,
 /app
 /home
 
-
-This is common innnnnnnnnnnnnnn both and previous gaye bhaad me
+this is eliminated
